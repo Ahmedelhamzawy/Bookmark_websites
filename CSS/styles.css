@@ -1,0 +1,27 @@
+header .container{
+    border-bottom: 1px solid #999;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+header h1{
+    color: #999;
+    
+}
+.bg-form{
+    background-color: rgb(93%, 93%, 93%);
+}
+footer .container{
+    border-top: 1px solid #999;
+}
+footer p{
+    color: #AAA;
+}
+.site
+{
+    
+    margin-bottom: 30px;
+    background-image: linear-gradient(#EEE,#FFF);
+}
+.visit{
+    margin: auto;
+}
